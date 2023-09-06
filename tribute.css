@@ -1,0 +1,43 @@
+.container {
+    background-color:cadetblue;
+    max-width: 500px;
+    width: 100%;
+    display:grid;
+    margin:0%;
+}
+.title {
+    background-color:burlywood;
+    font-style: italic;
+    color: rgb(229, 255, 0);
+    text-align: center;
+
+}
+.mid {
+    display: flex;
+    align-items: center;
+    background-color:burlywood;
+   justify-content: center;
+   font-style: italic;
+
+
+}
+.imgg {
+    max-width: 100%;
+    max-height: 100%;
+    
+}
+.text {
+    padding-left: 20px;
+    font-size: 20px;
+}
+.fin {
+    background-color: burlywood;
+    color: black;
+    text-align: center;
+
+}
+p1 {
+    text-align: center;
+    color: rgb(89, 42, 199);
+    font-style:oblique;
+}
